@@ -1,7 +1,7 @@
 ﻿
 namespace IC20Analysis
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         /// 設計工具所需的變數。
@@ -31,12 +31,12 @@ namespace IC20Analysis
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Name = "Main";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
